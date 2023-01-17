@@ -12,7 +12,7 @@
 
 `model.dat`: stored model in binary file
 
-### To get Spotify API to work, you must make an account @ [Spotify for Developers](https://developer.spotify.com/)
+### To get Spotify API to work, you must make an account/project @ [Spotify for Developers](https://developer.spotify.com/)
 
 #### Create a project, set the `SPOTIPY_CLIENT_ID`, `SPOTIPY_CLIENT_SECRET` environment varaiables as given in the project (under dashboard), AND `SPOTIPY_REDIRECT_URI` as any valid URI
 
